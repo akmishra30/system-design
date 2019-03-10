@@ -6,6 +6,8 @@ This project is simply to demonstrate the vending machine basic operations.
 	1. Java (v1.8 or later)
 	3. Eclipse 
 	4. Maven 
+	5. junit (v4.11)
+	6. slf4j-log4j12 (v1.7.25)
 
 **Classes, interfaces, entities and exceptions :**
 
