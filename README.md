@@ -3,3 +3,4 @@ This repo is for micro java applications which demonstrate the system design wit
 
 **The sample projects with implementations.**
 1. Vending Machine
+2. Url Shortner
