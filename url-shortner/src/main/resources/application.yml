@@ -1,0 +1,24 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /
+
+spring:
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
+com:
+  makhir:
+    url-key:
+      length: 8
+logging:
+  level:
+    root: info
+    com:
+      makhir:
+        designs:
+          url:
+            shortner: debug
+          
